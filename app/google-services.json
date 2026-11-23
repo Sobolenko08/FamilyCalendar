@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744346603444",
+    "project_id": "familycalendar-46f1c",
+    "storage_bucket": "familycalendar-46f1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744346603444:android:2d2bda4db074645e38ace1",
+        "android_client_info": {
+          "package_name": "com.example.familycalendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZanqxNc-64MDXUGg-uQzhS7fdca-hV8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
